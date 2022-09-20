@@ -1,7 +1,5 @@
-Hi, I’m @b-ysliu  
-I’m currently learning 🌱  
-A new GitHub user  
-May not release all source code
+Hi, I'm ysliu, a new user who is learning to use github🌱  
+I may not release all the source code in this space  
 
 <!---
 b-ysliu/b-ysliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

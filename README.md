@@ -1,6 +1,6 @@
-Hi, I’m @b-ysliu
-I’m currently learning 🌱
-A new GitHub user
+Hi, I’m @b-ysliu  
+I’m currently learning 🌱  
+A new GitHub user  
 
 <!---
 b-ysliu/b-ysliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
